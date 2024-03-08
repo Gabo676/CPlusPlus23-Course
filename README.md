@@ -1,23 +1,25 @@
 <p align="center">
-  <a href="https://fernando-herrera.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/C%2B%2B_logo.png/512px-C%2B%2B_logo.png" width="100" alt="c++ Logo" /></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/C%2B%2B_logo.png/512px-C%2B%2B_logo.png" width="100" alt="c++ Logo" />
 </p>
 
-# CPlusPlus23-Course
+# Curso de C++23
 Curso de C++ Moderno
 
 
 ## Configuraciones
 
-Hay un par de extensiones bastante útiles que les recomiendo de entrada
+### Editor de Codigo: Visual Studio Code
 <p align="center">
-  <a href="https://fernando-herrera.com/" target="blank"><img src="https://devtalles.com/images/vscode.png" width="100" alt="Nest Logo" /></a>
+  <img src="https://devtalles.com/images/vscode.png" width="100" alt="VSCODE Logo" />
 </p>
 
 * [Descargar VSCode - Sitio Oficial](https://code.visualstudio.com/)
 
-### Extensiones
+#### Extensiones
 
-## Indispensables:
+##### Indispensables:
+
+* [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
@@ -30,10 +32,10 @@ Hay un par de extensiones bastante útiles que les recomiendo de entrada
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 
-### Tema usado durante el curso
+##### Tema usado durante el curso
 
 * [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
 
 
-## Wallpapers que uso
-[Wallpapers Developer](https://drive.google.com/drive/folders/1ItU8rbSGJjnh2USOBGwaCo9nYKifPJ6m?usp=sharing)
+### Compilador: GCC 13.2.0 (with POSIX threads) + LLVM/Clang/LLD/LLDB 17.0.6 + MinGW-w64 11.0.1 (UCRT) - release 5
+
