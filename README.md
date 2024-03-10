@@ -39,3 +39,6 @@ Curso de C++ Moderno
 
 ### Compilador: GCC 13.2.0 (with POSIX threads) + LLVM/Clang/LLD/LLDB 17.0.6 + MinGW-w64 11.0.1 (UCRT) - release 5
 
+* [Descargar MinGW - Sitio Oficial](https://winlibs.com/)
+
+
